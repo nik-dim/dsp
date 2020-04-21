@@ -1,1 +1,1 @@
-# dsp
+The labs for the course `Digital Signal Processing` (6th semester ECE NTUA). 
